@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(168, 180, 176);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ingredients{
+    font-size: large;
+}
+.steps{
+   font-size: large;
+}
+.header{
+    font-style: oblique;
+}

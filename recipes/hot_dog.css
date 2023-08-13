@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    font-style: italic;
+}
+ul.lists{
+    background-color: lightcoral;
+}
+ol.lists{
+    background-color: yellow;
+}
