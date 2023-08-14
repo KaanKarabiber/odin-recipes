@@ -1,13 +1,16 @@
 body{
-    background-color: bisque;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.header{
-    font-style: italic;
+    background-color: rgb(25, 172, 123);
+    font-family: 'Courier New', Courier, monospace;
 }
 ul.lists{
     background-color: lightcoral;
 }
 ol.lists{
     background-color: yellow;
+}
+img{
+   border: 1px solid black;
+   border-radius: 5px;
+   width: 400px;
+   height: auto;
 }

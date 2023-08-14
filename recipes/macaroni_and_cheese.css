@@ -1,4 +1,10 @@
 body{
     font-family: monospace;
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(25, 172, 123);
+}
+img{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 400px;
+    height: auto;
 }
